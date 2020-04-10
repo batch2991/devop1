@@ -3,3 +3,5 @@ this is2ndline
 3rdline
 4thline
 file1 is updated inmaster
+file1 is updated inb1branch
+
